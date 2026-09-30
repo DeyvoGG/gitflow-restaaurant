@@ -1,1 +1,1 @@
-# gitflow-restaaurant
+# typescript-template
